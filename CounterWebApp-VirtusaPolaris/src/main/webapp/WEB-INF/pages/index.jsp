@@ -19,6 +19,7 @@
     </td>
     <td valign="top">
     	<img src="hioxindia-pharmacy_10.jpg" alt="" border="0" />
+      
         <h1>Drug Store</h1>
       <p>Anyone can use these HTML  s just by replacing the content to the pre-existing site designs.</p>
         <p align="right"><a href="#" class="more">View More</a></p>
