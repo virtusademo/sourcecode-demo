@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<marquee><h1> <font color="red">Welcome to Virtusa DevOps(CI/CD) Demo....!!!</font></h1></marquee>
+<marquee><h1> <font color="red">Welcome to VirtusaPolaris DevOps(CI/CD) Demo....!!!</font></h1></marquee>
 <h3>Continuous Integration and Continuous Deployment Pipeline....!</h3>
 <h3>My Counter : ${counter}</h3>	
 <table width="960" border="0" cellspacing="10" cellpadding="0" align="center">
